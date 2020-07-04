@@ -1,4 +1,4 @@
 ### What I have learned:
-- Adapter pattern
-- pair programming
-- peer review
+    Adapter pattern
+    pair programming
+    peer review
