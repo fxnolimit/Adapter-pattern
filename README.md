@@ -1,4 +1,4 @@
-### What I learned:
+### What I have learned:
 - Adapter pattern
 - pair programming
 - peer review
