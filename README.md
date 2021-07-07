@@ -1,1 +1,4 @@
-# CS410_assignment2review
+### What I have learned:
+    Adapter pattern
+    Pair programming
+    Peer review
